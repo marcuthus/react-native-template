@@ -2,7 +2,7 @@
   "expo": {
     "name": "App Template By Marcuth",
     "slug": "App-Template-By-Marcuth",
-    "version": "1.0.0",
+    "version": "0.1.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
@@ -22,7 +22,7 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.marcuth.tsreactnativeapp"
+      "package": "dev.marcuth.react-native-template"
     },
     "web": {
       "favicon": "./assets/favicon.png"
