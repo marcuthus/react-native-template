@@ -17,7 +17,7 @@ const App: FC = () => {
         <SafeAreaProvider>
             <View className="flex-1 items-center justify-center gap-4 bg-background">
                 <Text className="text-lg font-semibold">
-                    Aplicativo Template Feito por Marcuth (@1Marcuth)!
+                    Aplicativo Template Feito por Marcuth (@marcuth)!
                 </Text>
                 <Popover>
                     <PopoverTrigger asChild>
@@ -30,8 +30,8 @@ const App: FC = () => {
                     </PopoverContent>
                 </Popover>
             </View>
-            <StatusBar style={colorScheme === "dark" ? "light" : "dark"}/>
-            <PortalHost/>
+            <StatusBar style={colorScheme === "dark" ? "light" : "dark"} />
+            <PortalHost />
         </SafeAreaProvider>
     )
 }

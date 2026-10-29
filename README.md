@@ -1,1 +1,1 @@
-# By Marcuth (@1Marcuth)
+# By Marcuth (@marcuth)
